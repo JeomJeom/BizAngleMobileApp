@@ -1,6 +1,7 @@
-# Introduction
+# Introduction of BizAngle 
 “Biz Angel” is a retail business assistant application, which aims to help the young entrepreneurs and new start-up businesses. Throughout our observation and research, we found out that the small business retailers have a common problem of managing their inventory. When their new stocks arrivals, they always have hard time to record and give each of them a unique code.
 Therefore, our application helps to solve this problem. It enhances the traditional way of recording the data and retrieves the data or information with ease. 
+
 # Functions
 It provides several functions:
 Home Page:
